@@ -1,0 +1,4 @@
+name: great-plugin
+version: '1.0-SNAPSHOT'
+main: me.nbtc.greatPlugin.GreatPlugin
+api-version: '1.21'
